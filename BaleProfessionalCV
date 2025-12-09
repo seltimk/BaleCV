@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Your Name Here">
+    <title>My Curriculum Vitae</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>SELTIM KATZING BALE</h1>
+        <p>Email: seltimkatzingbale@email.com</p>
+        <p>Phone: +2348144011612//8127614788</p>
+        <p>Jos, Plateau State Nigeria</p>
+    </header>
+
+    <hr>
+
+    <section>
+        <h2>Profile Summary</h2>
+        <p>
+            A motivated and detail-oriented individual with passion for technology, 
+            problem-solving, and continuous learning. Demonstrated ability to work 
+            collaboratively and communicate effectively.
+        </p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <strong>B.Sc in Pure Chemistry</strong> University of Jos 
+                <br>2019 – 2024
+            </li>
+            <li>
+                <strong>Secondary School Certificate</strong> Hilltop Academy  
+                <br>2013 – 2019
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript Basics</li>
+            <li>Problem Solving</li>
+            <li>Communication</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <!-- USING AN APPROPRIATE LIST TYPE (ORDERED LIST) -->
+        <ol>
+            <li>
+                <strong>Frontend Intern  TS ACADEMY</strong> (2025)
+                <p>Assisted in building and styling webpages using HTML/CSS.</p>
+            </li>
+
+            <li>
+                <strong>Co-host😁 TS ACADEMY CLASSES</strong> (2025)
+                <p>Didnt suffer Miss. Amaka like KASIM DID.</p>
+            </li>
+
+            <li>
+                <strong>Freelance Web Designer</strong> (2021 – Present)
+                <p>Designed simple personal graphics.</p>
+            </li>
+        </ol>
+    </section>
+
+    <div>
+        <h2>Hobbies & Interests</h2>
+        <ul>
+            <li>Coding</li>
+            <li>Reading</li>
+            <li>Volunteering</li>
+            <li>Traveling</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Referees</h2>
+      
+            <ol>
+                <li>
+                    <strong>Amaka </strong><br>
+                    Tutor, TS ACADEMY<br>
+                    Email:
+                </li>
+                <li>
+                    <strong>Mr. Emmanuel</strong><br>
+                    Tutor, TS ACADEMY<br>
+                    Email:
+            </ol>
+    </div>
+
+    
+</body>
+</html>
